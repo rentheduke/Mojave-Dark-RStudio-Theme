@@ -11,6 +11,17 @@
     border-radius: 3px;
 }
 
+.GNTYACMBB3 {
+    background-color: #292C2E;
+    border: 1px solid #999;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
 .GD15MCFCEUB .ace_keyword {
     color: rgb(217,217,217); !important;
 }
@@ -1579,15 +1590,4 @@ button.gwt-Button-DialogAction>table:first-child, button.GNTYACMBE2>table:first-
 
 .GNTYACMBPNB {
     background-color: #292C2E;
-}
-
-.GNTYACMBB3 {
-    background-color: #292C2E;
-    border: 1px solid #999;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
 }
