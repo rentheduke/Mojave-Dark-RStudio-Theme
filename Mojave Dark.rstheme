@@ -22,6 +22,10 @@
     -webkit-box-sizing: border-box;
 }
 
+.GNTYACMBCOB {
+    background-color: #292C2E;
+}
+
 .GD15MCFCEUB .ace_keyword {
     color: rgb(217,217,217); !important;
 }
