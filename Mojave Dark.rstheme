@@ -26,14 +26,13 @@
     background-color: #292C2E;
 }
 
-/* Change hyperlink color */
-.GNTYACMBGPB a {
-    color: #FF69B4; /* or use a hex code like #ff69b4 */
+.GNTYACMBGPB {
+    color: #FF69B4; /* Pink color */
 }
 
-/* Optionally, change the color when the user hovers over the link */
-.GNTYACMBGPB a:hover {
-    color: #FF1493; /* Or any other hover color */
+/* Optionally, change the color when hovering over the link */
+.GNTYACMBGPB:hover {
+    color: #FF1493; /* Darker pink on hover */
 }
 
 .GD15MCFCEUB .ace_keyword {
