@@ -28,12 +28,12 @@
 
 /* Change hyperlink color */
 .GNTYACMBCOB a {
-    color: pink; /* or use a hex code like #ff69b4 */
+    color: #FF69B4; /* or use a hex code like #ff69b4 */
 }
 
 /* Optionally, change the color when the user hovers over the link */
 .GNTYACMBCOB a:hover {
-    color: hotpink; /* Or any other hover color */
+    color: #FF1493; /* Or any other hover color */
 }
 
 .GD15MCFCEUB .ace_keyword {
