@@ -27,12 +27,12 @@
 }
 
 /* Change hyperlink color */
-.GNTYACMBCOB a {
+.GNTYACMBGPB a {
     color: #FF69B4; /* or use a hex code like #ff69b4 */
 }
 
 /* Optionally, change the color when the user hovers over the link */
-.GNTYACMBCOB a:hover {
+.GNTYACMBGPB a:hover {
     color: #FF1493; /* Or any other hover color */
 }
 
